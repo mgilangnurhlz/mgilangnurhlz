@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Gilang Nur Haliz</h1>
+<h1 align="center">Hi, I'm Muhammad Gilang Nur Haliz</h1>
 
 - 🌱 I’m currently learning **Java, Phyton, C++, and Javascript**
 
