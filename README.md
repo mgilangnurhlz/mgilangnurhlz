@@ -14,8 +14,6 @@
   
 - 🌱 I’m currently learning **Java, Phyton, C++, and Javascript**
   
-- 💬 Ask me about **mysql, express, react, nodejs**
-  
 - 📫 How to reach me **mgilangnurhaliz@gmail.com**
   
 - 🏆 2023 Goals: Contribute more to Open Source Projects.
@@ -31,7 +29,7 @@
 </details>
 </br>
 
-<h4 align="center">Connect with me  </h4>
+<h4 align="center">Connect with me <img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" height="20"> </h4>
 <p align="center">
 <a href="https://twitter.com/mgilangnurhlz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mgilangnurhlz" height="30" width="40" /></a>
 <a href="https://instagram.com/mgilangnurhlz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mgilangnurhlz" height="30" width="40" /></a>
