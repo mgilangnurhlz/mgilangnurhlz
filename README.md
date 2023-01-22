@@ -1,13 +1,13 @@
 ![About Me](https://user-images.githubusercontent.com/100754364/213909433-bae29ad5-cb81-4a8a-afaf-226f70f72a87.gif)
 <div align="center"> 
   <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Muhammad Gilang Nur Haliz</h1>
-  <p>A <b>Technophile</b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design Enthusiast</b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px">, who is obsessed with the idea of improving himself and explore various things.</p>
+  <p>A <b>Technophile</b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px">, who is obsessed with the idea of improving himself and explore various things.</p>
 </div>
 </br>
 
 <div style="display:flex">
   
-  <img align="right" alt="Coder GIF" height=200 width=300 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+  <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
   </p>
   
 - 🔭 I’m currently studying on [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/)
@@ -31,8 +31,9 @@
 </details>
 </br>
 
-<h5 align="center">Connect with me</h5>
+<h4 align="center">Connect with me  </h4>
 <p align="center">
 <a href="https://twitter.com/mgilangnurhlz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mgilangnurhlz" height="30" width="40" /></a>
 <a href="https://instagram.com/mgilangnurhlz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mgilangnurhlz" height="30" width="40" /></a>
 </p>
+
