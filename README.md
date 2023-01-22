@@ -6,7 +6,6 @@
 </br>
 
 <div style="display:flex">
-  
   <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
   </p>
   
@@ -21,6 +20,7 @@
 - 🐍 `print(random.choice(dev_quote))`
   
 </div>
+</br>
 
 <details>	
   <summary> <h4>Languages and Tools<h4>
@@ -34,4 +34,3 @@
 <a href="https://twitter.com/mgilangnurhlz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mgilangnurhlz" height="30" width="40" /></a>
 <a href="https://instagram.com/mgilangnurhlz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mgilangnurhlz" height="30" width="40" /></a>
 </p>
-
