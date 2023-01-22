@@ -1,4 +1,4 @@
-![About Me](https://user-images.githubusercontent.com/100754364/213907778-d484e70c-3051-4f84-a332-575154eef069.gif)
+![About Me](https://user-images.githubusercontent.com/100754364/213907925-6dd14d46-d855-4edb-8129-5c4573c0b470.gif)
 
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Muhammad Gilang Nur Haliz</h1>
