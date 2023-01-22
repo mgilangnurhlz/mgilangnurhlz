@@ -33,10 +33,10 @@
 
 <h4 align="center">Connect with me <img src="https://github.com/sakshamgurbhele/sakshamgurbhele/blob/main/Images/Handshake.gif" width="35" height="20"> </h4>
 <p align="center">
-<img align="center" src="https://user-images.githubusercontent.com/100754364/213914656-04be7fa8-c6a8-4654-9bc3-ade6bfcf78ee.png" alt="mgilangnurhlz" height="5" width="45%" />
+<img align="center" src="https://user-images.githubusercontent.com/100754364/213914656-04be7fa8-c6a8-4654-9bc3-ade6bfcf78ee.png" alt="mgilangnurhlz" height="5" width="200" />
 <a href="https://twitter.com/mgilangnurhlz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mgilangnurhlz" height="30" width="40" /></a>
 <a href="https://instagram.com/mgilangnurhlz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mgilangnurhlz" height="30" width="40" />
-<img align="center" src="https://user-images.githubusercontent.com/100754364/213914656-04be7fa8-c6a8-4654-9bc3-ade6bfcf78ee.png" alt="mgilangnurhlz" height="5" width="45%" /></a>
+<img align="center" src="https://user-images.githubusercontent.com/100754364/213914656-04be7fa8-c6a8-4654-9bc3-ade6bfcf78ee.png" alt="mgilangnurhlz" height="5" width="200" /></a>
 </p>
 
 
