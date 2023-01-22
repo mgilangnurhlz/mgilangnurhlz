@@ -1,14 +1,27 @@
 ![About Mee](https://user-images.githubusercontent.com/100754364/213907988-75c39220-5b93-4670-990e-94f40874a405.gif)
 
-
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Muhammad Gilang Nur Haliz</h1>
 
+
+<div style="display:flex">
+  
+  <img align="right" alt="Coder GIF" height=200 width=300 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+  </p>
+  
 - 🔭 I’m currently studying on [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/)
+  
 - 🌱 I’m currently learning **Java, Phyton, C++, and Javascript**
+  
 - 💬 Ask me about **mysql, express, react, nodejs**
+  
 - 📫 How to reach me **mgilangnurhaliz@gmail.com**
+  
 - 🏆 2023 Goals: Contribute more to Open Source Projects.
+  
 - 🐍 `print(random.choice(dev_quote))`
+  
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
